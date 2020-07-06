@@ -1,0 +1,10 @@
+@font-face{
+	font-family: "os";
+	src: url("../fonts/OS.woff2") format("woff2"), url("../fonts/OS.woff") format("woff");
+}
+
+@font-face{
+	font-family: "bn";
+	src: url("../fonts/BN.woff2") format("woff2"), url("../fonts/BN.woff") format("woff");
+}
+
